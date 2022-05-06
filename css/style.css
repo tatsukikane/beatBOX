@@ -1,0 +1,39 @@
+body{
+  background-color: rgb(25, 25, 112,0.9);
+  font-family: Courier;
+}
+.main{
+  text-align: center;
+  color: white;
+}
+.title{
+  height: 60ox;
+  text-align: center;
+  color: white;
+  margin-bottom: 100px;
+}
+.title h1{
+  font-size: 100px;
+  /* font-family: Courier; */
+}
+.img_area{
+  height: 500px;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.music_area{
+  font-size: 80px;
+}
+.music_area p {
+  margin-top: 30px;
+}
+.btn_area button{
+  margin-top: 50px;
+  font-size: 80px;
+  border-radius: 50%;
+  height: 210px;
+  width:210px;
+  font-family: Courier;
+}
